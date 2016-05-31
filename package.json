@@ -22,5 +22,19 @@
     "express-messages": "*",
     "multer": "*",
     "moment": "*"
-  }
+  },
+  "engines": {
+    "node": "4.3.1",
+    "npm": "2.14.12"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Valdemar26/nodeblog"
+  },
+  "keywords": {
+    "node",
+    "heroku",
+    "express"
+  },
+  "license": "MIT"
 }
