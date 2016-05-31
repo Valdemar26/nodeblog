@@ -1,0 +1,7 @@
+{
+  "name": "nodeblog",
+  "description": "Blog on Node.js",
+  "repository": "https://github.com/Valdemar26/nodeblog",
+  "keywords": ["node", "express", "static"],
+  "image": "heroku/nodejs"
+  }
